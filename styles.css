@@ -116,6 +116,7 @@ body {
 .aboutMe h1 {
     font-size: 50px;
     margin: 0px;
+	text-align: center;
 }
 
 .aboutMe .underLine {
